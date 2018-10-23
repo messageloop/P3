@@ -1,6 +1,6 @@
 {
 	"model" : "P3",
 	"version" : "1.25.3",
-	"url" : "https://raw.githubusercontent.com/messageloop/KGH/master/Firmware/cam/P3_system.1.25.3.img",
+	"url" : "https://raw.githubusercontent.com/messageloop/P3/master/P3_system.1.25.3.img",
 	"description" : "1.25.3 test"
 }
