@@ -1,6 +1,6 @@
 {
 	"model" : "P3",
-	"version" : "1.29.1",
-	"url" : "https://raw.githubusercontent.com/messageloop/P3/master/P3_system.1.29.1.debug.img",
-	"description" : "P3_system.1.29.1.img test"
+	"version" : "1.36.2",
+	"url" : "https://raw.githubusercontent.com/messageloop/P3/master/image_p3_1_36_2_20181130.img",
+	"description" : "P3_system.1.36.2 改进了连接成功率"
 }
