@@ -1,6 +1,6 @@
 {
 	"model" : "P3",
-	"version" : "1.41.4",
-	"url" : "https://raw.githubusercontent.com/messageloop/P3/master/P3_system.1.41.4.img",
-	"description" : "1. 增加了aws timer"
+	"version" : "1.41.5",
+	"url" : "https://raw.githubusercontent.com/messageloop/P3/master/P3_system.1.41.5.img",
+	"description" : "1. 修改aws是时间同步"
 }
